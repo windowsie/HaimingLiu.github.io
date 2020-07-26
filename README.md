@@ -15,8 +15,6 @@
 - College of Computer Science and Technology
 - Advisor: Prof. Yuanning Liu
 
-### Air Force Medical University of PLA, Xi’an, Shaanxi, China
-
 *07/2015-07/2019*
 
 - **Visiting PhD Student** in State Key Laboratory of Cancer Biology
